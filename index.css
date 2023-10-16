@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+.img-1{
+    width: 100px;
+    height: 100px;
+}
+.img-2{
+    width: 200px;
+    height: 200px;
+}
+.title-1{
+    color: blue;
+}
+.title-2{
+    color: deeppink;
+}
+.link-1{
+    color: black;
+}
+ul{
+    background-color: chartreuse;
+}
+h2{
+    font-style: italic;
+}
+.bold{
+    font-weight: bold;
+}
+h1{
+    font-family: roboto;
+    font-weight: 700;
+}
+h1,h2{
+    background-color: darkblue;
+}
